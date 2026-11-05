@@ -1,0 +1,1 @@
+# ArtCritique AI Demo
